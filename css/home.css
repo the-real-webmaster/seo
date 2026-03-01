@@ -6,7 +6,7 @@
 
 .header::after {
     content: '';
-    background-image: url('/img/home/header-seo-icon.svg');
+    background-image: url('../img/home/header-seo-icon.svg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
