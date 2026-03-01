@@ -397,6 +397,10 @@ a {
 }
 
 @media (max-width: 950px) {
+    .not-scroll {
+        overflow: hidden;
+    }
+    
     .header__inner {
         justify-content: space-between;
     }
